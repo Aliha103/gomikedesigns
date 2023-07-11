@@ -200,7 +200,6 @@ $(document).ready(function () {
     $("#page-loading-blocs-notifaction").remove();
 }).resize(function () {
     setFillScreenBlocHeight();
-});
-, $(function () {
+}), $(function () {
     $('[data-toggle="tooltip"]').tooltip()
 });
