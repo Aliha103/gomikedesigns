@@ -111,8 +111,19 @@ a:hover {
     right: 0
 }
 
-.portfolio-heading{
+.portfolio-heading {
     font-size: 2.5vw !important;
+}
+.text-center{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.comment-heading {
+    font-size: 1.3rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
 
 .texture-paper::before {
