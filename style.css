@@ -111,6 +111,10 @@ a:hover {
     right: 0
 }
 
+.portfolio-heading{
+    font-size: 2.5vw !important;
+}
+
 .texture-paper::before {
     background: url(img/texture-paper.png) 0 0/280px 280px
 }
