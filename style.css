@@ -28,7 +28,11 @@ button {
 .scrollToTop,
 a,
 button {
-    transition: .3s ease-in-out
+    transition: .3s ease-in-out;
+}
+.scrollToTop{
+    color: black !important;
+    background: #fff !important;
 }
 
 body {
